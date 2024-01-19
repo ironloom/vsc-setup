@@ -1,3 +1,4 @@
+![alt text](https://github.com/ironloom/vsc-setup/blob/main/assets/vsc_jetbrains_3.png?raw=true)
 # ✨ Visual Studio Code Setup ✨
 Make VSCode look and feel like IntelliJ IDEA.
 If you wish to go a step further, all files are in the `assets` directory. I recommend using [Resource Hacker](https://www.angusj.com/resourcehacker/) to change the apps icon to the *better* JetBrains lookalike.
